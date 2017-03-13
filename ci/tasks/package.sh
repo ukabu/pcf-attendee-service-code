@@ -1,3 +1,5 @@
+#!/bin/sh
+
 set -ex
 
 pushd attendee-service
