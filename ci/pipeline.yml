@@ -4,7 +4,7 @@ resources:
   type: git
   source:
     uri: https://github.com/ukabu/pcf-attendee-service-code
-    branch: concourse_deployment
+    branch: master
 
 - name: deploy-attendee-service
   type: cf
